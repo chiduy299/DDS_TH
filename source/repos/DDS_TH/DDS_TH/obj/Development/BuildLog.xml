@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>DDS_TH</Name>
-    <LastWriteTime>2022-01-01T17:44:47.0916171Z</LastWriteTime>
+    <LastWriteTime>2022-01-01T17:45:44.8653002Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>DDS_Dim_Table.dtsx</Name>
-      <LastWriteTime>2022-01-01T17:44:46.3874573Z</LastWriteTime>
+      <LastWriteTime>2022-01-02T03:28:17.0590183Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
